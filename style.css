@@ -42,7 +42,7 @@ ul h1 {
 
 .hero {
     background-image: url("images/hero.jpg");
-    height: 600px;
+    height: 100vh;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 1270px 600px;
